@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ConsoleApp1
 {
@@ -27,6 +24,7 @@ namespace ConsoleApp1
             else
                 return false;
         }
+
         static void Main(string[] args)
         {
             int number = 121;
